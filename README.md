@@ -39,6 +39,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/the-punisher-29/leetcode/tree/master/0007-reverse-integer) |
 # Recursion
 |  |
 | ------- |
