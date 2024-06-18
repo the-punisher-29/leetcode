@@ -55,6 +55,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-punisher-29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/the-punisher-29/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
 # Sliding Window
 |  |
 | ------- |
@@ -67,3 +68,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/the-punisher-29/leetcode/tree/master/0005-longest-palindromic-substring) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
