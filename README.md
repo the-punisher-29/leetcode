@@ -6,6 +6,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/the-punisher-29/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Two Pointers
 |  |
@@ -14,6 +15,7 @@ This Repo contains all the codes that i submitted on LeetCode
 # Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Greedy
 |  |
@@ -48,3 +50,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-punisher-29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
