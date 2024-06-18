@@ -5,6 +5,7 @@ This Repo contains all the codes that i submitted on LeetCode
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/the-punisher-29/leetcode/tree/master/0001-two-sum) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Two Pointers
 |  |
@@ -22,3 +23,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/the-punisher-29/leetcode/tree/master/0001-two-sum) |
