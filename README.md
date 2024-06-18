@@ -27,3 +27,15 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/the-punisher-29/leetcode/tree/master/0001-two-sum) |
+# Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0002-add-two-numbers) |
+# Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0002-add-two-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0002-add-two-numbers) |
