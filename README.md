@@ -48,11 +48,13 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0007-reverse-integer](https://github.com/the-punisher-29/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/the-punisher-29/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 # Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/the-punisher-29/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 # String
 |  |
 | ------- |
