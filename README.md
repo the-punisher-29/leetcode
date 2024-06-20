@@ -11,6 +11,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0057-insert-interval](https://github.com/the-punisher-29/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -73,6 +74,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/the-punisher-29/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 # Sliding Window
 |  |
 | ------- |
@@ -93,7 +95,12 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
+# Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
