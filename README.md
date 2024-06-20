@@ -112,3 +112,15 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
+# Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+# Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+# Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
