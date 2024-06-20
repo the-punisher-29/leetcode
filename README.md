@@ -12,6 +12,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -87,10 +88,12 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/the-punisher-29/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 # Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 # Backtracking
 |  |
 | ------- |
@@ -104,3 +107,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
