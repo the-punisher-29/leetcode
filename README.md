@@ -10,6 +10,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0041-first-missing-positive](https://github.com/the-punisher-29/leetcode/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/the-punisher-29/leetcode/tree/master/0057-insert-interval) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Greedy
 |  |
 | ------- |
@@ -29,6 +31,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
