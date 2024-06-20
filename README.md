@@ -21,6 +21,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Greedy
@@ -53,6 +54,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0009-palindrome-number](https://github.com/the-punisher-29/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 # Recursion
 |  |
 | ------- |
