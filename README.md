@@ -9,6 +9,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/the-punisher-29/leetcode/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/the-punisher-29/leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -16,6 +17,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/the-punisher-29/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/the-punisher-29/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
@@ -31,6 +33,7 @@ This Repo contains all the codes that i submitted on LeetCode
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
