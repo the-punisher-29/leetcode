@@ -10,6 +10,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0041-first-missing-positive](https://github.com/the-punisher-29/leetcode/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/the-punisher-29/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -88,3 +89,11 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
