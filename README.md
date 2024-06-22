@@ -129,6 +129,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/the-punisher-29/leetcode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/the-punisher-29/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 # Matrix
 |  |
 | ------- |
