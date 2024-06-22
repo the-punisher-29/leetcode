@@ -14,6 +14,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/the-punisher-29/leetcode/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -48,6 +49,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-punisher-29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/the-punisher-29/leetcode/tree/master/0041-first-missing-positive) |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 # Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0058-length-of-last-word](https://github.com/the-punisher-29/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/the-punisher-29/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 # Sliding Window
 |  |
 | ------- |
@@ -99,6 +102,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0010-regular-expression-matching](https://github.com/the-punisher-29/leetcode/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/the-punisher-29/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 # Stack
 |  |
 | ------- |
@@ -110,6 +114,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/the-punisher-29/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -136,3 +141,11 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+# Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+# Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
