@@ -73,6 +73,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 # Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 # String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/the-punisher-29/leetcode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/the-punisher-29/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 # Matrix
 |  |
 | ------- |
