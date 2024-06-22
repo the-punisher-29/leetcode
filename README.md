@@ -13,6 +13,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/the-punisher-29/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/the-punisher-29/leetcode/tree/master/0136-single-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -113,6 +114,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/the-punisher-29/leetcode/tree/master/0136-single-number) |
 # Matrix
 |  |
 | ------- |
