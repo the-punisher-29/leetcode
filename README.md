@@ -63,6 +63,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0021-merge-two-sorted-lists](https://github.com/the-punisher-29/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0206-reverse-linked-list) |
 # Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0021-merge-two-sorted-lists](https://github.com/the-punisher-29/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0206-reverse-linked-list) |
 # String
 |  |
 | ------- |
