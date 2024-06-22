@@ -25,6 +25,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/the-punisher-29/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
@@ -59,6 +60,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/the-punisher-29/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/the-punisher-29/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 # Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0010-regular-expression-matching](https://github.com/the-punisher-29/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/the-punisher-29/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 # String
 |  |
 | ------- |
@@ -111,6 +114,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 # Backtracking
 |  |
 | ------- |
