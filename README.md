@@ -123,6 +123,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0020-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
 # Backtracking
 |  |
 | ------- |
@@ -166,3 +167,11 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
