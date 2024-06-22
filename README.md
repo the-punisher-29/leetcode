@@ -27,6 +27,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
@@ -64,6 +65,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
 # Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
 # String
 |  |
 | ------- |
@@ -124,6 +127,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
 # Backtracking
 |  |
 | ------- |
