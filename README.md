@@ -17,6 +17,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
 |  |
@@ -56,6 +57,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/the-punisher-29/leetcode/tree/master/0205-isomorphic-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
 | ------- |
@@ -77,6 +79,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
 |  |
 | ------- |
@@ -109,6 +112,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-punisher-29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
