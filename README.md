@@ -24,6 +24,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0005-longest-palindromic-substring](https://github.com/the-punisher-29/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/the-punisher-29/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
@@ -50,12 +51,14 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0013-roman-to-integer](https://github.com/the-punisher-29/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/the-punisher-29/leetcode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 # Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/the-punisher-29/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/the-punisher-29/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 # Math
 |  |
 | ------- |
