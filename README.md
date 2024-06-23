@@ -17,6 +17,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 | [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/the-punisher-29/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -37,6 +38,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Greedy
@@ -47,6 +49,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -59,6 +62,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/the-punisher-29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/the-punisher-29/leetcode/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
@@ -81,6 +85,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0050-powx-n](https://github.com/the-punisher-29/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
 |  |
@@ -150,6 +155,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0201-bitwise-and-of-numbers-range](https://github.com/the-punisher-29/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/the-punisher-29/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 # Matrix
 |  |
 | ------- |
