@@ -18,6 +18,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/the-punisher-29/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/the-punisher-29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -32,6 +33,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/the-punisher-29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
@@ -39,6 +41,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0004-median-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/the-punisher-29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Greedy
@@ -156,6 +159,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/the-punisher-29/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/the-punisher-29/leetcode/tree/master/0287-find-the-duplicate-number) |
 # Matrix
 |  |
 | ------- |
