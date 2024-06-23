@@ -177,6 +177,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0310-minimum-height-trees](https://github.com/the-punisher-29/leetcode/tree/master/0310-minimum-height-trees) |
 # Binary Tree
 |  |
 | ------- |
@@ -201,3 +202,15 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/the-punisher-29/leetcode/tree/master/0310-minimum-height-trees) |
+# Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/the-punisher-29/leetcode/tree/master/0310-minimum-height-trees) |
+# Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/the-punisher-29/leetcode/tree/master/0310-minimum-height-trees) |
