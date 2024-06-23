@@ -15,6 +15,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/the-punisher-29/leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+| [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -184,3 +185,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
+# Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
