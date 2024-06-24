@@ -52,6 +52,7 @@ This Repo contains all the codes that i submitted on LeetCode
 # Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/the-punisher-29/leetcode/tree/master/0402-remove-k-digits) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Sorting
 |  |
@@ -125,6 +126,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0165-compare-version-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/the-punisher-29/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/the-punisher-29/leetcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/the-punisher-29/leetcode/tree/master/0402-remove-k-digits) |
 # Sliding Window
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0143-reorder-list](https://github.com/the-punisher-29/leetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/the-punisher-29/leetcode/tree/master/0402-remove-k-digits) |
 # Backtracking
 |  |
 | ------- |
@@ -178,6 +181,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/the-punisher-29/leetcode/tree/master/0402-remove-k-digits) |
 # Tree
 |  |
 | ------- |
