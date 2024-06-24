@@ -23,6 +23,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/the-punisher-29/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/the-punisher-29/leetcode/tree/master/0463-island-perimeter) |
+| [0502-ipo](https://github.com/the-punisher-29/leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -58,6 +59,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0402-remove-k-digits](https://github.com/the-punisher-29/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/the-punisher-29/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/the-punisher-29/leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Sorting
 |  |
@@ -66,6 +68,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/the-punisher-29/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/the-punisher-29/leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/the-punisher-29/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -247,6 +250,7 @@ This Repo contains all the codes that i submitted on LeetCode
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/the-punisher-29/leetcode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/the-punisher-29/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
