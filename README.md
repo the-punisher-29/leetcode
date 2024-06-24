@@ -211,6 +211,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/the-punisher-29/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/the-punisher-29/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/0543-diameter-of-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -220,12 +221,14 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0463-island-perimeter](https://github.com/the-punisher-29/leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/the-punisher-29/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/the-punisher-29/leetcode/tree/master/0514-freedom-trail) |
+| [0543-diameter-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/0543-diameter-of-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/the-punisher-29/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/the-punisher-29/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/0543-diameter-of-binary-tree) |
 # Trie
 |  |
 | ------- |
