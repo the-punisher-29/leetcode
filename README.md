@@ -20,6 +20,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/the-punisher-29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -76,6 +77,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
