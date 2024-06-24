@@ -108,6 +108,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
 |  |
@@ -120,6 +121,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0206-reverse-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1013-fibonacci-number) |
 # String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/the-punisher-29/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+| [1013-fibonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1013-fibonacci-number) |
 # Stack
 |  |
 | ------- |
@@ -220,6 +223,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+| [1013-fibonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1013-fibonacci-number) |
 # Design
 |  |
 | ------- |
