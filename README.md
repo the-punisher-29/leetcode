@@ -141,6 +141,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0344-reverse-string](https://github.com/the-punisher-29/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/the-punisher-29/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0409-longest-palindrome) |
+| [0514-freedom-trail](https://github.com/the-punisher-29/leetcode/tree/master/0514-freedom-trail) |
 # Sliding Window
 |  |
 | ------- |
@@ -160,6 +161,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0085-maximal-rectangle](https://github.com/the-punisher-29/leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/the-punisher-29/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/the-punisher-29/leetcode/tree/master/0140-word-break-ii) |
+| [0514-freedom-trail](https://github.com/the-punisher-29/leetcode/tree/master/0514-freedom-trail) |
 | [1013-fibonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1013-fibonacci-number) |
 # Stack
 |  |
@@ -212,6 +214,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0404-sum-of-left-leaves](https://github.com/the-punisher-29/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/the-punisher-29/leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/the-punisher-29/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/the-punisher-29/leetcode/tree/master/0514-freedom-trail) |
 # Binary Tree
 |  |
 | ------- |
@@ -247,6 +250,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0404-sum-of-left-leaves](https://github.com/the-punisher-29/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/the-punisher-29/leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/the-punisher-29/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/the-punisher-29/leetcode/tree/master/0514-freedom-trail) |
 # Graph
 |  |
 | ------- |
