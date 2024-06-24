@@ -24,6 +24,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/the-punisher-29/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/the-punisher-29/leetcode/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/the-punisher-29/leetcode/tree/master/0502-ipo) |
+| [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -85,6 +86,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0349-intersection-of-two-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
@@ -108,6 +110,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0069-sqrtx](https://github.com/the-punisher-29/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/the-punisher-29/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
@@ -243,6 +246,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
 # Breadth-First Search
 |  |
 | ------- |
