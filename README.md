@@ -27,6 +27,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/the-punisher-29/leetcode/tree/master/0525-contiguous-array) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/the-punisher-29/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -151,6 +152,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-punisher-29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/the-punisher-29/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -195,6 +197,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0260-single-number-iii](https://github.com/the-punisher-29/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/the-punisher-29/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/the-punisher-29/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Matrix
 |  |
 | ------- |
@@ -247,6 +250,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/the-punisher-29/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/the-punisher-29/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Prefix Sum
 |  |
@@ -254,6 +258,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/the-punisher-29/leetcode/tree/master/0525-contiguous-array) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Breadth-First Search
 |  |
 | ------- |
