@@ -25,6 +25,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0463-island-perimeter](https://github.com/the-punisher-29/leetcode/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/the-punisher-29/leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/the-punisher-29/leetcode/tree/master/0525-contiguous-array) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -87,6 +88,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0409-longest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/the-punisher-29/leetcode/tree/master/0525-contiguous-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
@@ -247,6 +249,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/the-punisher-29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/the-punisher-29/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/the-punisher-29/leetcode/tree/master/0525-contiguous-array) |
 # Breadth-First Search
 |  |
 | ------- |
