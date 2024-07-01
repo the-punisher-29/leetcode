@@ -315,4 +315,20 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
+## Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
