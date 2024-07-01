@@ -300,6 +300,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 | [1293-three-consecutive-odds](https://github.com/the-punisher-29/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -315,12 +316,14 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 ## Sorting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -359,6 +362,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 ## Binary Search
 |  |
 | ------- |
