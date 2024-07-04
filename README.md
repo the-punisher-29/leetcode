@@ -390,6 +390,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -423,6 +424,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Stack
@@ -484,4 +486,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
