@@ -294,6 +294,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/the-punisher-29/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -352,6 +353,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
@@ -365,6 +367,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
