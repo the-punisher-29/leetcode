@@ -303,6 +303,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1019-squares-of-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/the-punisher-29/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
@@ -334,6 +335,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1019-squares-of-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
@@ -375,6 +377,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
