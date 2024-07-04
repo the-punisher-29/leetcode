@@ -351,12 +351,14 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +369,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Math
 |  |
 | ------- |
@@ -393,6 +396,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Trie
 |  |
 | ------- |
@@ -439,4 +443,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
