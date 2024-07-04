@@ -350,11 +350,13 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +366,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Math
 |  |
 | ------- |
