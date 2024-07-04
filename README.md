@@ -314,6 +314,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1217-relative-sort-array](https://github.com/the-punisher-29/leetcode/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/the-punisher-29/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -332,6 +333,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1217-relative-sort-array](https://github.com/the-punisher-29/leetcode/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -393,6 +395,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -444,6 +447,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Graph
 |  |
 | ------- |
