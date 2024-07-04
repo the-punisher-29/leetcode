@@ -415,6 +415,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/the-punisher-29/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -427,6 +428,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/the-punisher-29/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Enumeration
 |  |
 | ------- |
