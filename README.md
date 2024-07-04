@@ -305,6 +305,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1293-three-consecutive-odds](https://github.com/the-punisher-29/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
@@ -421,6 +422,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0713-subarray-product-less-than-k](https://github.com/the-punisher-29/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Graph
 |  |
 | ------- |
@@ -434,10 +436,12 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Queue
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Simulation
 |  |
 | ------- |
@@ -451,4 +455,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
