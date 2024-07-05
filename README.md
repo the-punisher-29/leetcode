@@ -381,6 +381,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -388,6 +389,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,6 +402,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Math
 |  |
 | ------- |
