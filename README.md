@@ -449,6 +449,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/the-punisher-29/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -468,6 +469,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
