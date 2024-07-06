@@ -1,23 +1,28 @@
 class Solution {
 public:
-    vector<int> leftRightDifference(vector<int>& nums) {
-        vector<int> leftSum(nums.size()),rightSum(nums.size()),answer(nums.size());
+    int beautifulSubsets(std::vector<int>& nums, int k) {
+        int n = nums.size();
+        unordered_map<int, int> count;
+        return dfs(nums, k, 0, count) - 1; // Subtract 1 to exclude the empty subset
+    }
 
-        int sum=0;
-        for(int i=0;i<nums.size();++i){
-            leftSum[i]=sum;
-            sum=sum+nums[i];
+private:
+    int dfs(const vector<int>& nums, int k, int index, unordered_map<int, int>& count) {
+        if (index == nums.size()) {
+            return 1; // This subset is valid
         }
+        
+        // Option 1: Skip the current element
+        int totalCount = dfs(nums, k, index + 1, count);
 
-        sum=0;
-        for(int i=nums.size()-1;i>=0;--i){
-            rightSum[i]=sum;
-            sum=sum+nums[i];
+        // Option 2: Include the current element if it's valid
+        int current = nums[index];
+        if (count[current - k] == 0 && count[current + k] == 0) {
+            count[current]++;
+            totalCount += dfs(nums, k, index + 1, count);
+            count[current]--;
         }
-
-        for(int i=0;i<nums.size();++i){
-            answer[i]=abs(leftSum[i]-rightSum[i]);
-        }
-        return answer; 
+        
+        return totalCount;
     }
 };
