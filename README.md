@@ -396,6 +396,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -406,6 +407,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -423,6 +425,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Math
 |  |
 | ------- |
