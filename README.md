@@ -344,6 +344,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -455,6 +456,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/the-punisher-29/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -507,6 +509,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -539,6 +542,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/the-punisher-29/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Counting Sort
 |  |
 | ------- |
