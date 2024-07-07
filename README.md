@@ -333,6 +333,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/the-punisher-29/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -532,6 +533,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Graph
 |  |
