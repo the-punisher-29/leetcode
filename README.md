@@ -293,6 +293,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
@@ -469,6 +470,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
