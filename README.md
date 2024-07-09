@@ -326,6 +326,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/the-punisher-29/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/the-punisher-29/leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/the-punisher-29/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -605,6 +606,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/the-punisher-29/leetcode/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/the-punisher-29/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/the-punisher-29/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
