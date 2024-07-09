@@ -294,6 +294,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
@@ -456,6 +457,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -472,6 +474,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
