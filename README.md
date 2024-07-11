@@ -295,6 +295,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -353,6 +354,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
@@ -391,6 +393,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
@@ -417,6 +420,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -685,4 +689,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
