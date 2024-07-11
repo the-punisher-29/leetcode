@@ -294,6 +294,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
@@ -541,6 +542,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -692,5 +694,6 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
