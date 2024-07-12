@@ -294,6 +294,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/the-punisher-29/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
@@ -487,6 +488,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/the-punisher-29/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
