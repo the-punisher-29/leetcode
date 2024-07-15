@@ -563,6 +563,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/the-punisher-29/leetcode/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -600,6 +601,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
+| [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
