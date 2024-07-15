@@ -564,6 +564,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
+| [0812-rotate-string](https://github.com/the-punisher-29/leetcode/tree/master/0812-rotate-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/the-punisher-29/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -756,4 +757,8 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/the-punisher-29/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
