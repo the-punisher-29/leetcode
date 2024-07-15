@@ -558,6 +558,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/the-punisher-29/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -585,6 +586,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/the-punisher-29/leetcode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 ## Dynamic Programming
 |  |
