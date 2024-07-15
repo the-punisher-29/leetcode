@@ -410,6 +410,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/the-punisher-29/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -505,6 +506,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1642-water-bottles](https://github.com/the-punisher-29/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2571-find-the-pivot-integer](https://github.com/the-punisher-29/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/the-punisher-29/leetcode/tree/master/2645-pass-the-pillow) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -574,6 +576,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/the-punisher-29/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
