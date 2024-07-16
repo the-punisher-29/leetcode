@@ -395,6 +395,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -460,6 +461,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
 |  |
@@ -595,6 +597,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/the-punisher-29/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
