@@ -378,6 +378,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/the-punisher-29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
@@ -423,6 +424,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
@@ -445,12 +447,14 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -568,6 +572,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
@@ -770,4 +775,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/the-punisher-29/leetcode/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
