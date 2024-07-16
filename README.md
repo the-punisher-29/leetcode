@@ -376,6 +376,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -532,6 +533,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0031-next-permutation](https://github.com/the-punisher-29/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0283-move-zeroes) |
@@ -662,6 +664,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/the-punisher-29/leetcode/tree/master/1765-merge-in-between-linked-lists) |
