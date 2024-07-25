@@ -293,6 +293,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/the-punisher-29/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -408,6 +409,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -535,6 +537,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/the-punisher-29/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
