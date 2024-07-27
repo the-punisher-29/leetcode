@@ -370,6 +370,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
@@ -624,6 +625,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3379-score-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
@@ -679,6 +681,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1039-find-the-town-judge](https://github.com/the-punisher-29/leetcode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
 | ------- |
@@ -825,4 +828,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
