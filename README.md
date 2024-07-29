@@ -304,6 +304,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/the-punisher-29/leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -650,6 +651,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-punisher-29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -782,6 +784,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/the-punisher-29/leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
