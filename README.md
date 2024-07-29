@@ -480,6 +480,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/the-punisher-29/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -495,6 +496,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/the-punisher-29/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -517,6 +519,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/the-punisher-29/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0623-add-one-row-to-tree](https://github.com/the-punisher-29/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -844,6 +847,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/the-punisher-29/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Indexed Tree
