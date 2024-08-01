@@ -293,6 +293,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/the-punisher-29/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/the-punisher-29/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -383,6 +384,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/the-punisher-29/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/the-punisher-29/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
