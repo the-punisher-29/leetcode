@@ -369,6 +369,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/the-punisher-29/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2727-number-of-senior-citizens](https://github.com/the-punisher-29/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -640,6 +641,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/the-punisher-29/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3379-score-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/3379-score-of-a-string) |
