@@ -353,6 +353,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-punisher-29/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/the-punisher-29/leetcode/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/the-punisher-29/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -464,6 +465,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1217-relative-sort-array](https://github.com/the-punisher-29/leetcode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/the-punisher-29/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -588,6 +590,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/the-punisher-29/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -613,6 +616,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/the-punisher-29/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-punisher-29/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/the-punisher-29/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
