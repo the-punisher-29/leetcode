@@ -328,6 +328,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/the-punisher-29/leetcode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/the-punisher-29/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
@@ -403,6 +404,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
+| [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/the-punisher-29/leetcode/tree/master/1039-find-the-town-judge) |
@@ -554,6 +556,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -810,6 +813,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0054-spiral-matrix](https://github.com/the-punisher-29/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
