@@ -325,6 +325,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0540-single-element-in-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/the-punisher-29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/the-punisher-29/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
@@ -436,6 +437,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/the-punisher-29/leetcode/tree/master/0890-lemonade-change) |
