@@ -335,6 +335,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0890-lemonade-change](https://github.com/the-punisher-29/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/the-punisher-29/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-spiral-matrix-iii](https://github.com/the-punisher-29/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
@@ -784,6 +785,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/the-punisher-29/leetcode/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/the-punisher-29/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/the-punisher-29/leetcode/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -834,6 +836,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/the-punisher-29/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/the-punisher-29/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
