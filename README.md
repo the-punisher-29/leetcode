@@ -350,6 +350,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1217-relative-sort-array](https://github.com/the-punisher-29/leetcode/tree/master/1217-relative-sort-array) |
+| [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/the-punisher-29/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -580,6 +581,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/the-punisher-29/leetcode/tree/master/1642-water-bottles) |
@@ -703,6 +705,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -772,6 +775,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -935,4 +939,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/the-punisher-29/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
