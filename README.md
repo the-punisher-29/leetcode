@@ -671,6 +671,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
+| [0664-strange-printer](https://github.com/the-punisher-29/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
@@ -712,6 +713,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-punisher-29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/the-punisher-29/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
