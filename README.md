@@ -308,6 +308,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/the-punisher-29/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
@@ -438,6 +439,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -713,6 +715,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-punisher-29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
