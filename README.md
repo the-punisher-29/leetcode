@@ -305,6 +305,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0035-search-insert-position](https://github.com/the-punisher-29/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/the-punisher-29/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/the-punisher-29/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/the-punisher-29/leetcode/tree/master/0054-spiral-matrix) |
@@ -439,6 +440,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/the-punisher-29/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
@@ -717,6 +719,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
