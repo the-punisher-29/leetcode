@@ -355,6 +355,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1217-relative-sort-array](https://github.com/the-punisher-29/leetcode/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/the-punisher-29/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -506,6 +507,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/the-punisher-29/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/the-punisher-29/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Counting
 |  |
@@ -792,6 +794,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/the-punisher-29/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/the-punisher-29/leetcode/tree/master/1039-find-the-town-judge) |
+| [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2803-modify-graph-edge-weights](https://github.com/the-punisher-29/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -962,6 +965,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/the-punisher-29/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Search Tree
