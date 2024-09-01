@@ -379,6 +379,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2035-count-sub-islands](https://github.com/the-punisher-29/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/the-punisher-29/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/the-punisher-29/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/the-punisher-29/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -847,6 +848,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/the-punisher-29/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/the-punisher-29/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/the-punisher-29/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -901,6 +903,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/the-punisher-29/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/the-punisher-29/leetcode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Memoization
 |  |
