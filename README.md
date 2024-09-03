@@ -727,6 +727,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/the-punisher-29/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -861,6 +862,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1803-average-waiting-time](https://github.com/the-punisher-29/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/the-punisher-29/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/the-punisher-29/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/the-punisher-29/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
