@@ -382,6 +382,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/the-punisher-29/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/the-punisher-29/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -629,6 +630,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2050-count-good-numbers) |
+| [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
 | [2571-find-the-pivot-integer](https://github.com/the-punisher-29/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/the-punisher-29/leetcode/tree/master/2645-pass-the-pillow) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -864,6 +866,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/the-punisher-29/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/the-punisher-29/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/the-punisher-29/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/the-punisher-29/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
