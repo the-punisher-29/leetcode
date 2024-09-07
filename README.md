@@ -548,6 +548,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -571,6 +572,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/the-punisher-29/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/the-punisher-29/leetcode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
@@ -584,6 +586,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0662-maximum-width-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
 | [0999-regions-cut-by-slashes](https://github.com/the-punisher-29/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/the-punisher-29/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
 | [2035-count-sub-islands](https://github.com/the-punisher-29/leetcode/tree/master/2035-count-sub-islands) |
@@ -606,6 +609,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1021-distribute-coins-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -824,6 +828,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0328-odd-even-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1765-merge-in-between-linked-lists](https://github.com/the-punisher-29/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/the-punisher-29/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
