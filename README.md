@@ -620,6 +620,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0012-integer-to-roman](https://github.com/the-punisher-29/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
@@ -758,6 +759,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-punisher-29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -939,6 +941,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bitmask
 |  |
