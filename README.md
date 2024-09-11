@@ -314,6 +314,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-punisher-29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -897,6 +898,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/the-punisher-29/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/the-punisher-29/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/the-punisher-29/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1331-path-with-maximum-gold](https://github.com/the-punisher-29/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -905,6 +907,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/the-punisher-29/leetcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1054-complement-of-base-10-integer](https://github.com/the-punisher-29/leetcode/tree/master/1054-complement-of-base-10-integer) |
