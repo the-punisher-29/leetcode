@@ -321,6 +321,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0162-find-peak-element](https://github.com/the-punisher-29/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
@@ -623,6 +624,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -890,6 +892,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
@@ -1037,4 +1040,8 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
