@@ -625,6 +625,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/the-punisher-29/leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/the-punisher-29/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
@@ -918,6 +919,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/the-punisher-29/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/the-punisher-29/leetcode/tree/master/0476-number-complement) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
