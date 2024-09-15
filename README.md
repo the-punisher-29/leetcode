@@ -442,6 +442,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/the-punisher-29/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -738,6 +739,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/the-punisher-29/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/the-punisher-29/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/the-punisher-29/leetcode/tree/master/1720-crawler-log-folder) |
@@ -863,6 +865,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/the-punisher-29/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/the-punisher-29/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/the-punisher-29/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -927,6 +930,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1054-complement-of-base-10-integer](https://github.com/the-punisher-29/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/the-punisher-29/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/the-punisher-29/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/the-punisher-29/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
