@@ -327,6 +327,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/the-punisher-29/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/the-punisher-29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
@@ -494,6 +495,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -634,6 +636,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/the-punisher-29/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -724,6 +727,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/the-punisher-29/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
