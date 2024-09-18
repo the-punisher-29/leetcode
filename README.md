@@ -1081,5 +1081,6 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/the-punisher-29/leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/the-punisher-29/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
