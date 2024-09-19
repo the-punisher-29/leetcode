@@ -639,6 +639,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
@@ -730,6 +731,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/the-punisher-29/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -786,6 +788,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/the-punisher-29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/the-punisher-29/leetcode/tree/master/0664-strange-printer) |
@@ -978,6 +981,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bitmask
 |  |
@@ -1002,6 +1006,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2050-count-good-numbers) |
