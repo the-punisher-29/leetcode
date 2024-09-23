@@ -402,6 +402,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/the-punisher-29/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/the-punisher-29/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -455,6 +456,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
+| [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -771,6 +773,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/the-punisher-29/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -782,6 +785,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0386-lexicographical-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/the-punisher-29/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
+| [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -804,6 +808,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/the-punisher-29/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
