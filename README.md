@@ -368,6 +368,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/the-punisher-29/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/the-punisher-29/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -828,6 +829,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/the-punisher-29/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1082,6 +1084,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0729-my-calendar-i](https://github.com/the-punisher-29/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/the-punisher-29/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/the-punisher-29/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
