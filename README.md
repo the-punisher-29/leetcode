@@ -340,6 +340,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/the-punisher-29/leetcode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0859-design-circular-deque](https://github.com/the-punisher-29/leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/the-punisher-29/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/the-punisher-29/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -874,6 +875,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0328-odd-even-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/the-punisher-29/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/the-punisher-29/leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -906,6 +908,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/the-punisher-29/leetcode/tree/master/0859-design-circular-deque) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/the-punisher-29/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -1087,6 +1090,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0729-my-calendar-i](https://github.com/the-punisher-29/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/the-punisher-29/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/the-punisher-29/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/the-punisher-29/leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
