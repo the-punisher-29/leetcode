@@ -436,6 +436,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/the-punisher-29/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/the-punisher-29/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
@@ -695,6 +696,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0283-move-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/the-punisher-29/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -751,6 +753,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/the-punisher-29/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/the-punisher-29/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [0664-strange-printer](https://github.com/the-punisher-29/leetcode/tree/master/0664-strange-printer) |
@@ -850,6 +853,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/the-punisher-29/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/the-punisher-29/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
