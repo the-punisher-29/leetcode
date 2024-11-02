@@ -767,6 +767,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0125-valid-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/the-punisher-29/leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/the-punisher-29/leetcode/tree/master/0273-integer-to-english-words) |
@@ -1086,6 +1087,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/the-punisher-29/leetcode/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
@@ -1174,4 +1176,12 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
