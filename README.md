@@ -821,6 +821,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/3379-score-of-a-string) |
+| [3451-string-compression-iii](https://github.com/the-punisher-29/leetcode/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
 | ------- |
