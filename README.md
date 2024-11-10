@@ -420,6 +420,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3235-minimum-cost-to-convert-string-i](https://github.com/the-punisher-29/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/the-punisher-29/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -898,6 +899,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/the-punisher-29/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1019,6 +1021,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/the-punisher-29/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/the-punisher-29/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/the-punisher-29/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting Sort
 |  |
 | ------- |
