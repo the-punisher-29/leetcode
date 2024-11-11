@@ -1163,6 +1163,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/the-punisher-29/leetcode/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/the-punisher-29/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/the-punisher-29/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/the-punisher-29/leetcode/tree/master/0595-big-countries) |
