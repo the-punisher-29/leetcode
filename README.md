@@ -377,6 +377,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-punisher-29/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/the-punisher-29/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/the-punisher-29/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/the-punisher-29/leetcode/tree/master/1720-crawler-log-folder) |
@@ -733,6 +734,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/the-punisher-29/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -763,6 +765,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/the-punisher-29/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-punisher-29/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/the-punisher-29/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/the-punisher-29/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -883,6 +886,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1666-make-the-string-great](https://github.com/the-punisher-29/leetcode/tree/master/1666-make-the-string-great) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/the-punisher-29/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1094,6 +1098,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Monotonic Stack
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
