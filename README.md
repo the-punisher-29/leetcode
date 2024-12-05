@@ -748,6 +748,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/the-punisher-29/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
@@ -837,6 +838,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/the-punisher-29/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/the-punisher-29/leetcode/tree/master/2580-circular-sentence) |
