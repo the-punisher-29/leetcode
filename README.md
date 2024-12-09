@@ -324,6 +324,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0179-largest-number](https://github.com/the-punisher-29/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/the-punisher-29/leetcode/tree/master/0455-assign-cookies) |
@@ -447,6 +448,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/the-punisher-29/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -530,6 +532,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0148-sort-list](https://github.com/the-punisher-29/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/the-punisher-29/leetcode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/the-punisher-29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -581,6 +584,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/the-punisher-29/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
