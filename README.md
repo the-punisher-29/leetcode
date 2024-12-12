@@ -422,6 +422,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2616-maximal-score-after-applying-k-operations](https://github.com/the-punisher-29/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/the-punisher-29/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -588,6 +589,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/the-punisher-29/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/the-punisher-29/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Counting
 |  |
@@ -1054,6 +1056,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2299-merge-nodes-in-between-zeros](https://github.com/the-punisher-29/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/the-punisher-29/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/the-punisher-29/leetcode/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 ## Enumeration
