@@ -13,24 +13,49 @@
         
 //     }
 // };
+// class Solution {
+// public:
+//     long long pickGifts(vector<int>& gifts, int k) {
+//         // Iterate k times
+//         for(int i = 0; i < k; ++i) {
+//             // Find index of max element
+//             int maxIndex = max_element(gifts.begin(), gifts.end()) - gifts.begin();
+            
+//             // Replace with floor of square root
+//             gifts[maxIndex] = floor(sqrt(gifts[maxIndex]));
+//         }
+        
+//         // Sum remaining gifts
+//         long long res = 0;
+//         for(int gift : gifts) {
+//             res += gift;
+//         }
+        
+//         return res;
+//     }
+// };
+
+//pq sol
+
 class Solution {
 public:
     long long pickGifts(vector<int>& gifts, int k) {
-        // Iterate k times
-        for(int i = 0; i < k; ++i) {
-            // Find index of max element
-            int maxIndex = max_element(gifts.begin(), gifts.end()) - gifts.begin();
+        priority_queue<int> pq(gifts.begin(), gifts.end());
+        
+        for (int i = 0; i < k; i++) {
+            if (pq.empty()) break;
             
-            // Replace with floor of square root
-            gifts[maxIndex] = floor(sqrt(gifts[maxIndex]));
+            int maxPile = pq.top();
+            pq.pop();
+            pq.push(floor(sqrt(maxPile)));
         }
         
-        // Sum remaining gifts
-        long long res = 0;
-        for(int gift : gifts) {
-            res += gift;
+        long long totalGifts = 0;
+        while (!pq.empty()) {
+            totalGifts += pq.top();
+            pq.pop();
         }
         
-        return res;
+        return totalGifts;
     }
 };
