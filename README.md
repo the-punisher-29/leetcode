@@ -423,6 +423,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/the-punisher-29/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -494,6 +495,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/the-punisher-29/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -570,6 +572,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
@@ -590,6 +593,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/the-punisher-29/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/the-punisher-29/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Counting
 |  |
@@ -1057,6 +1061,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2411-spiral-matrix-iv](https://github.com/the-punisher-29/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/the-punisher-29/leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 ## Enumeration
