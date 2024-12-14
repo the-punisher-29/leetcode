@@ -432,6 +432,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/the-punisher-29/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -595,6 +596,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2692-take-gifts-from-the-richest-pile](https://github.com/the-punisher-29/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/the-punisher-29/leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -969,6 +971,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/the-punisher-29/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/the-punisher-29/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1038,6 +1041,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -1154,6 +1158,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/the-punisher-29/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -1272,6 +1277,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0493-reverse-pairs](https://github.com/the-punisher-29/leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/the-punisher-29/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/the-punisher-29/leetcode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
