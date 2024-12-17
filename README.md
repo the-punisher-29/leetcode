@@ -334,6 +334,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0485-max-consecutive-ones](https://github.com/the-punisher-29/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/the-punisher-29/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/the-punisher-29/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -950,6 +951,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0144-binary-tree-preorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1188,6 +1190,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
