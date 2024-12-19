@@ -346,6 +346,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0729-my-calendar-i](https://github.com/the-punisher-29/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/the-punisher-29/leetcode/tree/master/0731-my-calendar-ii) |
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
+| [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/the-punisher-29/leetcode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/the-punisher-29/leetcode/tree/master/0859-design-circular-deque) |
@@ -521,6 +522,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/the-punisher-29/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/the-punisher-29/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
@@ -562,6 +564,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0539-minimum-time-difference](https://github.com/the-punisher-29/leetcode/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/the-punisher-29/leetcode/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
@@ -956,6 +959,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/the-punisher-29/leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -1193,6 +1197,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/the-punisher-29/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
