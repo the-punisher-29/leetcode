@@ -651,6 +651,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/the-punisher-29/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/the-punisher-29/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -681,6 +682,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/the-punisher-29/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/the-punisher-29/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -696,6 +698,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2035-count-sub-islands](https://github.com/the-punisher-29/leetcode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/the-punisher-29/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/the-punisher-29/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -721,6 +724,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/the-punisher-29/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/the-punisher-29/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
