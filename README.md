@@ -432,6 +432,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2292-counting-words-with-a-given-prefix](https://github.com/the-punisher-29/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/the-punisher-29/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/the-punisher-29/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/the-punisher-29/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/the-punisher-29/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -529,6 +530,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2300-construct-string-with-repeat-limit](https://github.com/the-punisher-29/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/the-punisher-29/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/the-punisher-29/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -663,6 +665,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/the-punisher-29/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/the-punisher-29/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/the-punisher-29/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/the-punisher-29/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -809,6 +812,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/the-punisher-29/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/the-punisher-29/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/the-punisher-29/leetcode/tree/master/2716-prime-subtraction-operation) |
