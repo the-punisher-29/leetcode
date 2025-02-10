@@ -985,6 +985,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/the-punisher-29/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/the-punisher-29/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/the-punisher-29/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/the-punisher-29/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
@@ -1063,6 +1064,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/the-punisher-29/leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1184,6 +1186,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/the-punisher-29/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/the-punisher-29/leetcode/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
