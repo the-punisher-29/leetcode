@@ -320,6 +320,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/the-punisher-29/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/the-punisher-29/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/the-punisher-29/leetcode/tree/master/0118-pascals-triangle) |
@@ -1084,6 +1085,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/the-punisher-29/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1364,6 +1366,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/the-punisher-29/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
