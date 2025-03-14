@@ -307,6 +307,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0037-sudoku-solver](https://github.com/the-punisher-29/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/the-punisher-29/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/the-punisher-29/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/the-punisher-29/leetcode/tree/master/0051-n-queens) |
@@ -860,6 +861,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0027-remove-element](https://github.com/the-punisher-29/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/the-punisher-29/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/the-punisher-29/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/the-punisher-29/leetcode/tree/master/0088-merge-sorted-array) |
@@ -1041,6 +1043,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/the-punisher-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
@@ -1076,6 +1079,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1351,6 +1355,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/the-punisher-29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
