@@ -509,6 +509,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0355-design-twitter](https://github.com/the-punisher-29/leetcode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/the-punisher-29/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/the-punisher-29/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/the-punisher-29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/the-punisher-29/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/the-punisher-29/leetcode/tree/master/0567-permutation-in-string) |
@@ -1168,6 +1169,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0328-odd-even-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/the-punisher-29/leetcode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/the-punisher-29/leetcode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/the-punisher-29/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/the-punisher-29/leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -1443,6 +1445,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0295-find-median-from-data-stream](https://github.com/the-punisher-29/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/the-punisher-29/leetcode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/the-punisher-29/leetcode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/the-punisher-29/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/the-punisher-29/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/the-punisher-29/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1503,6 +1506,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0146-lru-cache](https://github.com/the-punisher-29/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/the-punisher-29/leetcode/tree/master/0460-lfu-cache) |
 ## Rolling Hash
 |  |
 | ------- |
