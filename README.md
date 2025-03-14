@@ -498,6 +498,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0138-copy-list-with-random-pointer](https://github.com/the-punisher-29/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/the-punisher-29/leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/the-punisher-29/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/the-punisher-29/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
@@ -1161,6 +1162,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0061-rotate-list](https://github.com/the-punisher-29/leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/the-punisher-29/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/the-punisher-29/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/the-punisher-29/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/the-punisher-29/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/the-punisher-29/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -1437,6 +1439,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/the-punisher-29/leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/the-punisher-29/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/the-punisher-29/leetcode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
@@ -1498,6 +1501,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/the-punisher-29/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/the-punisher-29/leetcode/tree/master/0432-all-oone-data-structure) |
 ## Rolling Hash
 |  |
