@@ -432,6 +432,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/the-punisher-29/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2227-sum-of-subarray-ranges](https://github.com/the-punisher-29/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/the-punisher-29/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/the-punisher-29/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1109,6 +1110,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/the-punisher-29/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/the-punisher-29/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/the-punisher-29/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
@@ -1368,6 +1370,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/the-punisher-29/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/the-punisher-29/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
