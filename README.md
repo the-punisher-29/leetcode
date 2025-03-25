@@ -493,6 +493,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/the-punisher-29/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -663,6 +664,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/the-punisher-29/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/the-punisher-29/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
