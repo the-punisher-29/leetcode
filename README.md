@@ -475,6 +475,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2888-minimum-index-of-a-valid-split](https://github.com/the-punisher-29/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/the-punisher-29/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/the-punisher-29/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -611,6 +612,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2616-maximal-score-after-applying-k-operations](https://github.com/the-punisher-29/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/the-punisher-29/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -666,6 +668,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/the-punisher-29/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/the-punisher-29/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/the-punisher-29/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/the-punisher-29/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -874,6 +877,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2716-prime-subtraction-operation](https://github.com/the-punisher-29/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/the-punisher-29/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -1143,6 +1147,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/the-punisher-29/leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -1419,6 +1424,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/the-punisher-29/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/the-punisher-29/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
@@ -1510,6 +1516,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/the-punisher-29/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
 | ------- |
