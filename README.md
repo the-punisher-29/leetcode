@@ -493,6 +493,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3430-count-days-without-meetings](https://github.com/the-punisher-29/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-punisher-29/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-alternating-groups-ii](https://github.com/the-punisher-29/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1179,6 +1180,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/the-punisher-29/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/the-punisher-29/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-punisher-29/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-alternating-groups-ii](https://github.com/the-punisher-29/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/the-punisher-29/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Graph
 |  |
