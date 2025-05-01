@@ -431,6 +431,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/the-punisher-29/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/the-punisher-29/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -608,6 +609,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2032-largest-odd-number-in-string](https://github.com/the-punisher-29/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/the-punisher-29/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/the-punisher-29/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/the-punisher-29/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/the-punisher-29/leetcode/tree/master/2509-minimize-xor) |
@@ -660,6 +662,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/the-punisher-29/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/the-punisher-29/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/the-punisher-29/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -965,6 +968,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/the-punisher-29/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/the-punisher-29/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/the-punisher-29/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/the-punisher-29/leetcode/tree/master/2634-minimum-common-value) |
@@ -1260,6 +1264,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
@@ -1405,6 +1410,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/the-punisher-29/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
 ## Recursion
