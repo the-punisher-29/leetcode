@@ -380,6 +380,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/the-punisher-29/leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/the-punisher-29/leetcode/tree/master/1044-find-common-characters) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/the-punisher-29/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1137-height-checker](https://github.com/the-punisher-29/leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/the-punisher-29/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/the-punisher-29/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -600,6 +601,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0890-lemonade-change](https://github.com/the-punisher-29/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/the-punisher-29/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/the-punisher-29/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/the-punisher-29/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
