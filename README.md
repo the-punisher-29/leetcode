@@ -1104,6 +1104,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/the-punisher-29/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0806-domino-and-tromino-tiling](https://github.com/the-punisher-29/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
