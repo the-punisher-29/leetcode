@@ -896,6 +896,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/the-punisher-29/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1080,6 +1081,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3451-string-compression-iii](https://github.com/the-punisher-29/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/the-punisher-29/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/the-punisher-29/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
 | ------- |
@@ -1130,6 +1132,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/the-punisher-29/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -1422,6 +1425,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Queue
 |  |
 | ------- |
