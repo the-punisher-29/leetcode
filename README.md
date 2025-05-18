@@ -1140,6 +1140,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/the-punisher-29/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/the-punisher-29/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/the-punisher-29/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/the-punisher-29/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
