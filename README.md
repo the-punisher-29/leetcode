@@ -508,6 +508,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/the-punisher-29/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/the-punisher-29/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/the-punisher-29/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/the-punisher-29/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -1297,6 +1298,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2714-left-and-right-sum-differences](https://github.com/the-punisher-29/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-punisher-29/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/the-punisher-29/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Queue
 |  |
 | ------- |
