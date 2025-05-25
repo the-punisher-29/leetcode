@@ -2,15 +2,12 @@ class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
         unordered_map<string, int> count;
-        
-        // Count frequency of each word
+        //f-count
         for (const string& word : words) {
             count[word]++;
         }
-        
         int result = 0;
         bool hasMiddle = false;
-        
         for (auto& [word, freq] : count) {
             if (word[0] == word[1]) {
                 // Symmetric word (like "aa", "bb")
@@ -32,7 +29,6 @@ public:
                 }
             }
         }
-        
         return result;
     }
 };
