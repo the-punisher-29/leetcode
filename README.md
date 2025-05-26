@@ -572,6 +572,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/the-punisher-29/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/the-punisher-29/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -752,6 +753,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/the-punisher-29/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/the-punisher-29/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/the-punisher-29/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1155,6 +1157,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/the-punisher-29/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/the-punisher-29/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/the-punisher-29/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/the-punisher-29/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1245,6 +1248,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/the-punisher-29/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/the-punisher-29/leetcode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/the-punisher-29/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/the-punisher-29/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -1447,6 +1451,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0139-word-break](https://github.com/the-punisher-29/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Bitmask
 |  |
 | ------- |
@@ -1649,5 +1654,6 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/the-punisher-29/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
