@@ -930,6 +930,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/the-punisher-29/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3201-distribute-candies-among-children-ii](https://github.com/the-punisher-29/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/the-punisher-29/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/the-punisher-29/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1377,6 +1378,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/the-punisher-29/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
 |  |
@@ -1482,6 +1484,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/the-punisher-29/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Queue
 |  |
