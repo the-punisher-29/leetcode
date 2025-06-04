@@ -2,20 +2,11 @@ class Solution {
 public:
     int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
         int n = status.size();
-        
-        // Track which boxes we have (either initially or found inside other boxes)
         vector<bool> haveBox(n, false);
-        
-        // Track which boxes we have keys for
         vector<bool> haveKey(n, false);
-        
-        // Track which boxes we've already opened
         vector<bool> opened(n, false);
-        
-        // Queue for BFS - stores boxes we can currently open
+        //stores boxes we can currently open
         queue<int> q;
-        
-        // Initialize with the boxes we have initially
         for (int box : initialBoxes) {
             haveBox[box] = true;
             // If box is open or we have key for it, we can process it
@@ -23,20 +14,15 @@ public:
                 q.push(box);
             }
         }
-        
         int totalCandies = 0;
-        
         while (!q.empty()) {
             int currentBox = q.front();
             q.pop();
-            
             // Skip if already opened
             if (opened[currentBox]) continue;
-            
             // Mark as opened and collect candies
             opened[currentBox] = true;
             totalCandies += candies[currentBox];
-            
             // Collect all keys from this box
             for (int key : keys[currentBox]) {
                 haveKey[key] = true;
@@ -45,8 +31,6 @@ public:
                     q.push(key);
                 }
             }
-            
-            // Collect all contained boxes
             for (int box : containedBoxes[currentBox]) {
                 haveBox[box] = true;
                 // If box is open or we have key for it, we can process it
@@ -55,7 +39,6 @@ public:
                 }
             }
         }
-        
         return totalCandies;
     }
 };
