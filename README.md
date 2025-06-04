@@ -398,6 +398,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/the-punisher-29/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/the-punisher-29/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/the-punisher-29/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/the-punisher-29/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -849,6 +850,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0753-open-the-lock](https://github.com/the-punisher-29/leetcode/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/the-punisher-29/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/the-punisher-29/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/the-punisher-29/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/the-punisher-29/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
@@ -1260,6 +1262,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/the-punisher-29/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/the-punisher-29/leetcode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/the-punisher-29/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/the-punisher-29/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/the-punisher-29/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/the-punisher-29/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
