@@ -28,7 +28,6 @@ public:
                 freq[c - 'a']++;
             }
         }
-        
         return stack;
     }
 };
