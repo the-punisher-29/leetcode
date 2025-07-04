@@ -976,6 +976,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3227-find-missing-and-repeated-values](https://github.com/the-punisher-29/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/the-punisher-29/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/the-punisher-29/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/the-punisher-29/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1498,6 +1499,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/the-punisher-29/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-punisher-29/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/the-punisher-29/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1576,6 +1578,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2050-count-good-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/the-punisher-29/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
