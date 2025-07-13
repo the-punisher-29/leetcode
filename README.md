@@ -468,6 +468,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2478-longest-nice-subarray](https://github.com/the-punisher-29/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/the-punisher-29/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/the-punisher-29/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/the-punisher-29/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/the-punisher-29/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/the-punisher-29/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -667,6 +668,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/the-punisher-29/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/the-punisher-29/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/the-punisher-29/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/the-punisher-29/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/the-punisher-29/leetcode/tree/master/2509-minimize-xor) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/the-punisher-29/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -737,6 +739,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/the-punisher-29/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/the-punisher-29/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/the-punisher-29/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/the-punisher-29/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/the-punisher-29/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/the-punisher-29/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1047,6 +1050,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2271-rearrange-array-elements-by-sign](https://github.com/the-punisher-29/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/the-punisher-29/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/the-punisher-29/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/the-punisher-29/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
