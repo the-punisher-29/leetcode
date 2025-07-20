@@ -438,6 +438,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2035-count-sub-islands](https://github.com/the-punisher-29/leetcode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/the-punisher-29/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/the-punisher-29/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/the-punisher-29/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/the-punisher-29/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -601,6 +602,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/the-punisher-29/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/the-punisher-29/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/the-punisher-29/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/the-punisher-29/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1172,6 +1174,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2044-number-of-wonderful-substrings](https://github.com/the-punisher-29/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/the-punisher-29/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/the-punisher-29/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/the-punisher-29/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/the-punisher-29/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/the-punisher-29/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1226,6 +1229,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/the-punisher-29/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/the-punisher-29/leetcode/tree/master/0648-replace-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/the-punisher-29/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/the-punisher-29/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/the-punisher-29/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/the-punisher-29/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1778,6 +1782,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/the-punisher-29/leetcode/tree/master/0214-shortest-palindrome) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/the-punisher-29/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/the-punisher-29/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Quickselect
 |  |
