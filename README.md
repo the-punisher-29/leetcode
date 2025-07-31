@@ -369,6 +369,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0907-koko-eating-bananas](https://github.com/the-punisher-29/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/the-punisher-29/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/the-punisher-29/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
@@ -1266,6 +1267,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0806-domino-and-tromino-tiling](https://github.com/the-punisher-29/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/the-punisher-29/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -1535,6 +1537,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/the-punisher-29/leetcode/tree/master/0090-subsets-ii) |
 | [0476-number-complement](https://github.com/the-punisher-29/leetcode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/the-punisher-29/leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1054-complement-of-base-10-integer](https://github.com/the-punisher-29/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
