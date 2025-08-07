@@ -335,6 +335,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/the-punisher-29/leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/the-punisher-29/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/the-punisher-29/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -559,6 +560,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0146-lru-cache](https://github.com/the-punisher-29/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/the-punisher-29/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/the-punisher-29/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/the-punisher-29/leetcode/tree/master/0264-ugly-number-ii) |
@@ -715,6 +717,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0148-sort-list](https://github.com/the-punisher-29/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-punisher-29/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/the-punisher-29/leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/the-punisher-29/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/the-punisher-29/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/the-punisher-29/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/the-punisher-29/leetcode/tree/master/0295-find-median-from-data-stream) |
