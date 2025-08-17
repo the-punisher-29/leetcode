@@ -993,6 +993,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0592-fraction-addition-and-subtraction](https://github.com/the-punisher-29/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0867-new-21-game](https://github.com/the-punisher-29/leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
@@ -1275,6 +1276,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/the-punisher-29/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/the-punisher-29/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0867-new-21-game](https://github.com/the-punisher-29/leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1354,6 +1356,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0567-permutation-in-string](https://github.com/the-punisher-29/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/the-punisher-29/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/the-punisher-29/leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/the-punisher-29/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/the-punisher-29/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/the-punisher-29/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1830,4 +1833,8 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/the-punisher-29/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/the-punisher-29/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
