@@ -1,11 +1,8 @@
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
-        // Split the version strings by '.'
         vector<int> v1 = splitVersion(version1);
         vector<int> v2 = splitVersion(version2);
-        
-        // Compare the revisions
         int n = max(v1.size(), v2.size());
         for (int i = 0; i < n; i++) {
             int num1 = (i < v1.size()) ? v1[i] : 0;
@@ -14,7 +11,6 @@ public:
             if (num1 < num2) return -1;
             else if (num1 > num2) return 1;
         }
-        
         // Both versions are equal
         return 0;
     }
