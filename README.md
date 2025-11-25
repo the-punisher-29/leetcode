@@ -459,6 +459,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/the-punisher-29/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/the-punisher-29/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/the-punisher-29/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1027,6 +1028,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2050-count-good-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/the-punisher-29/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/the-punisher-29/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -1528,6 +1530,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/the-punisher-29/leetcode/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/the-punisher-29/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/the-punisher-29/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/the-punisher-29/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1677,6 +1680,7 @@ This Repo contains all the codes that i submitted on LeetCode
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/the-punisher-29/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/the-punisher-29/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
