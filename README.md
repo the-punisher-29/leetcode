@@ -316,6 +316,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0055-jump-game](https://github.com/the-punisher-29/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/the-punisher-29/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/the-punisher-29/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/the-punisher-29/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/the-punisher-29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/the-punisher-29/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0078-subsets) |
@@ -998,6 +999,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0012-integer-to-roman](https://github.com/the-punisher-29/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/the-punisher-29/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/the-punisher-29/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/the-punisher-29/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/the-punisher-29/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/the-punisher-29/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/the-punisher-29/leetcode/tree/master/0204-count-primes) |
