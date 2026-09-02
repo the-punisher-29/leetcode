@@ -556,6 +556,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/the-punisher-29/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/the-punisher-29/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/the-punisher-29/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3875-construct-uniform-parity-array-i](https://github.com/the-punisher-29/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1063,6 +1064,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/the-punisher-29/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/the-punisher-29/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/the-punisher-29/leetcode/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/the-punisher-29/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
