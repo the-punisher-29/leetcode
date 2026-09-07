@@ -1205,6 +1205,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0768-partition-labels](https://github.com/the-punisher-29/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/the-punisher-29/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/the-punisher-29/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/the-punisher-29/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/the-punisher-29/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -1324,6 +1325,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0867-new-21-game](https://github.com/the-punisher-29/leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/the-punisher-29/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/the-punisher-29/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/the-punisher-29/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
