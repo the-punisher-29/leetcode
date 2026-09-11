@@ -541,6 +541,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-punisher-29/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/the-punisher-29/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -659,6 +660,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/the-punisher-29/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/the-punisher-29/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/the-punisher-29/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-punisher-29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/the-punisher-29/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1585,6 +1587,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/the-punisher-29/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/the-punisher-29/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3469-maximum-height-of-a-triangle) |
+| [3483-unique-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/the-punisher-29/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/the-punisher-29/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/the-punisher-29/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1727,6 +1730,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1951-find-the-winner-of-the-circular-game](https://github.com/the-punisher-29/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/the-punisher-29/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/the-punisher-29/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
