@@ -1027,6 +1027,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0592-fraction-addition-and-subtraction](https://github.com/the-punisher-29/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/the-punisher-29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/the-punisher-29/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0836-rectangle-overlap](https://github.com/the-punisher-29/leetcode/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/the-punisher-29/leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/the-punisher-29/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -1921,6 +1922,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/the-punisher-29/leetcode/tree/master/0836-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/the-punisher-29/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/the-punisher-29/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
