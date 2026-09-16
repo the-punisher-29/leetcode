@@ -1039,6 +1039,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1448-maximum-69-number](https://github.com/the-punisher-29/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/the-punisher-29/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1642-water-bottles](https://github.com/the-punisher-29/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/the-punisher-29/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/the-punisher-29/leetcode/tree/master/1925-count-square-sum-triples) |
@@ -1342,6 +1343,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/the-punisher-29/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/the-punisher-29/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1506,6 +1508,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/the-punisher-29/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/the-punisher-29/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1694-make-sum-divisible-by-p](https://github.com/the-punisher-29/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/the-punisher-29/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1714,6 +1717,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
