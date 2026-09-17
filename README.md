@@ -409,6 +409,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/the-punisher-29/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/the-punisher-29/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/the-punisher-29/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/the-punisher-29/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/the-punisher-29/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/the-punisher-29/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -619,6 +620,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/the-punisher-29/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/the-punisher-29/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/the-punisher-29/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/the-punisher-29/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/the-punisher-29/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1160,6 +1162,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/the-punisher-29/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/the-punisher-29/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/the-punisher-29/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/the-punisher-29/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-punisher-29/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1345,6 +1348,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/the-punisher-29/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/the-punisher-29/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1431,6 +1435,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1321-get-equal-substrings-within-budget](https://github.com/the-punisher-29/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/the-punisher-29/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/the-punisher-29/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1813-maximum-erasure-value](https://github.com/the-punisher-29/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/the-punisher-29/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
