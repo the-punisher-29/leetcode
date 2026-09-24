@@ -550,6 +550,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-punisher-29/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-punisher-29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/the-punisher-29/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/the-punisher-29/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1076,6 +1077,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3321-type-of-triangle](https://github.com/the-punisher-29/leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3525-find-x-value-of-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-punisher-29/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/the-punisher-29/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/the-punisher-29/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/the-punisher-29/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
