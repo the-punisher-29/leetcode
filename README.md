@@ -432,6 +432,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/the-punisher-29/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/the-punisher-29/leetcode/tree/master/1803-average-waiting-time) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/the-punisher-29/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/the-punisher-29/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/the-punisher-29/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -631,6 +632,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/the-punisher-29/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/the-punisher-29/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/the-punisher-29/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/the-punisher-29/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1254,6 +1256,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/the-punisher-29/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/the-punisher-29/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/the-punisher-29/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/the-punisher-29/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/the-punisher-29/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
