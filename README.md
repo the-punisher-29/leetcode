@@ -1237,6 +1237,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/the-punisher-29/leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/the-punisher-29/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/the-punisher-29/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1407,6 +1408,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0937-online-stock-span](https://github.com/the-punisher-29/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/the-punisher-29/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -1955,4 +1957,8 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1401-circle-and-rectangle-overlapping](https://github.com/the-punisher-29/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/the-punisher-29/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/the-punisher-29/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
