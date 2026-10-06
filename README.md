@@ -697,6 +697,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0853-most-profit-assigning-work](https://github.com/the-punisher-29/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/the-punisher-29/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/the-punisher-29/leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-punisher-29/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/the-punisher-29/leetcode/tree/master/0985-bag-of-tokens) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/the-punisher-29/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/the-punisher-29/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1235,6 +1236,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0812-rotate-string](https://github.com/the-punisher-29/leetcode/tree/master/0812-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0856-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/the-punisher-29/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-punisher-29/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/the-punisher-29/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/the-punisher-29/leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/the-punisher-29/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -1416,6 +1418,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0776-n-ary-tree-postorder-traversal](https://github.com/the-punisher-29/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/the-punisher-29/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-punisher-29/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/the-punisher-29/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/the-punisher-29/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1978,6 +1981,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0032-longest-valid-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/the-punisher-29/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/the-punisher-29/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/the-punisher-29/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
