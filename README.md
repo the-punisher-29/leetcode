@@ -514,6 +514,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2727-number-of-senior-citizens](https://github.com/the-punisher-29/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/the-punisher-29/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/the-punisher-29/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/the-punisher-29/leetcode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/2868-continuous-subarrays) |
@@ -1642,6 +1643,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/the-punisher-29/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/the-punisher-29/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/the-punisher-29/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/the-punisher-29/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/the-punisher-29/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
