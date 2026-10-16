@@ -521,6 +521,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2888-minimum-index-of-a-valid-split](https://github.com/the-punisher-29/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/the-punisher-29/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/the-punisher-29/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/the-punisher-29/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/the-punisher-29/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/the-punisher-29/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/the-punisher-29/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -666,6 +667,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2755-extra-characters-in-a-string](https://github.com/the-punisher-29/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/the-punisher-29/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/the-punisher-29/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/the-punisher-29/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/the-punisher-29/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/the-punisher-29/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1876,6 +1878,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | ------- |
 | [0493-reverse-pairs](https://github.com/the-punisher-29/leetcode/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/the-punisher-29/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Strongly Connected Component
 |  |
@@ -1943,6 +1946,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0493-reverse-pairs](https://github.com/the-punisher-29/leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/the-punisher-29/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/the-punisher-29/leetcode/tree/master/0731-my-calendar-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/the-punisher-29/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/the-punisher-29/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3525-find-x-value-of-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/the-punisher-29/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
