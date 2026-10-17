@@ -556,6 +556,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/the-punisher-29/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/the-punisher-29/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-punisher-29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/the-punisher-29/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/the-punisher-29/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -678,6 +679,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3455-minimum-length-of-string-after-operations](https://github.com/the-punisher-29/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/the-punisher-29/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/the-punisher-29/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/the-punisher-29/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/the-punisher-29/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/the-punisher-29/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/the-punisher-29/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -824,6 +826,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/the-punisher-29/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/the-punisher-29/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/the-punisher-29/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/the-punisher-29/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/the-punisher-29/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/the-punisher-29/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/the-punisher-29/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
