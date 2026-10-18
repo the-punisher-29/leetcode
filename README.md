@@ -417,6 +417,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1524-string-matching-in-an-array](https://github.com/the-punisher-29/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/the-punisher-29/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/the-punisher-29/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-punisher-29/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/the-punisher-29/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -922,6 +923,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-punisher-29/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1024,6 +1026,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1030-smallest-string-starting-from-leaf](https://github.com/the-punisher-29/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/the-punisher-29/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/the-punisher-29/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1731-even-odd-tree](https://github.com/the-punisher-29/leetcode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/the-punisher-29/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/the-punisher-29/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1066,6 +1069,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1448-maximum-69-number](https://github.com/the-punisher-29/leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/the-punisher-29/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/the-punisher-29/leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1642-water-bottles](https://github.com/the-punisher-29/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/the-punisher-29/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1391,6 +1395,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1381-maximum-score-words-formed-by-letters](https://github.com/the-punisher-29/leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/the-punisher-29/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1511-count-number-of-teams](https://github.com/the-punisher-29/leetcode/tree/master/1511-count-number-of-teams) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/the-punisher-29/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/the-punisher-29/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1762,6 +1767,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0139-word-break](https://github.com/the-punisher-29/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/the-punisher-29/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/the-punisher-29/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/the-punisher-29/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Bitmask
@@ -1782,6 +1788,7 @@ This Repo contains all the codes that i submitted on LeetCode
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/the-punisher-29/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/the-punisher-29/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/the-punisher-29/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -1834,6 +1841,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0347-top-k-frequent-elements](https://github.com/the-punisher-29/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/the-punisher-29/leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/the-punisher-29/leetcode/tree/master/0948-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -1876,6 +1884,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/the-punisher-29/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/the-punisher-29/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -2011,4 +2020,12 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/the-punisher-29/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/the-punisher-29/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/the-punisher-29/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
