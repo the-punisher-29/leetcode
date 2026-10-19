@@ -451,6 +451,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [2048-build-array-from-permutation](https://github.com/the-punisher-29/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/the-punisher-29/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/the-punisher-29/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/the-punisher-29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/the-punisher-29/leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/the-punisher-29/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/the-punisher-29/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -796,6 +797,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/the-punisher-29/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/the-punisher-29/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/the-punisher-29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/the-punisher-29/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1204,6 +1206,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/the-punisher-29/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/the-punisher-29/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/the-punisher-29/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/the-punisher-29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/the-punisher-29/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/the-punisher-29/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/the-punisher-29/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
