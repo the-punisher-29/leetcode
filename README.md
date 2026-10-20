@@ -574,6 +574,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/the-punisher-29/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3875-construct-uniform-parity-array-i](https://github.com/the-punisher-29/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/the-punisher-29/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/the-punisher-29/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/the-punisher-29/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -833,6 +834,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3647-zero-array-transformation-iii](https://github.com/the-punisher-29/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/the-punisher-29/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/the-punisher-29/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/the-punisher-29/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1115,6 +1117,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3830-find-closest-person](https://github.com/the-punisher-29/leetcode/tree/master/3830-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/the-punisher-29/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/the-punisher-29/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/the-punisher-29/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1671,6 +1674,7 @@ This Repo contains all the codes that i submitted on LeetCode
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/the-punisher-29/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/the-punisher-29/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/the-punisher-29/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/the-punisher-29/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
